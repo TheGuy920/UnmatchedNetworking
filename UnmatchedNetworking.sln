@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnmatchedNetworking", "UnmatchedNetworking\UnmatchedNetworking.csproj", "{7A590FF2-312A-4282-B83C-EA6D079FE180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTest", "ServerTest\ServerTest.csproj", "{06A71D26-31EB-410A-A0DD-510C43778C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnmatchedNetworking.Generator", "UmatchedNetworking.Generator\UnmatchedNetworking.Generator\UnmatchedNetworking.Generator.csproj", "{2661344A-8B0C-4311-9404-D17ADB049DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryPack.Generator", "..\..\Documents\GitHub\MemoryPack\src\MemoryPack.Generator\MemoryPack.Generator.csproj", "{8939A799-9E2A-4B03-B7BC-B50A7BE57D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A590FF2-312A-4282-B83C-EA6D079FE180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A590FF2-312A-4282-B83C-EA6D079FE180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A590FF2-312A-4282-B83C-EA6D079FE180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A590FF2-312A-4282-B83C-EA6D079FE180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A71D26-31EB-410A-A0DD-510C43778C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A71D26-31EB-410A-A0DD-510C43778C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A71D26-31EB-410A-A0DD-510C43778C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A71D26-31EB-410A-A0DD-510C43778C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2661344A-8B0C-4311-9404-D17ADB049DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2661344A-8B0C-4311-9404-D17ADB049DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2661344A-8B0C-4311-9404-D17ADB049DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2661344A-8B0C-4311-9404-D17ADB049DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8939A799-9E2A-4B03-B7BC-B50A7BE57D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8939A799-9E2A-4B03-B7BC-B50A7BE57D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8939A799-9E2A-4B03-B7BC-B50A7BE57D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8939A799-9E2A-4B03-B7BC-B50A7BE57D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
